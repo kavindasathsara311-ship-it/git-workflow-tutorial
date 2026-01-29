@@ -1,4 +1,4 @@
-def setAddition(a,b):
-    return a+b
+def subtract_numbers(a, b):
+    return a - b
 
-print(setAddition(5,10))
+print(subtract_numbers(10, 4))
